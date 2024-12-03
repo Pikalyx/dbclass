@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Prerequisites for running the server:
 
-Things you may want to cover:
+* Ruby 3.3.6
+* SQLite >= 2.1
+* Rails Framework 8.0.0
+* (Optional) Visual Studio Code
 
-* Ruby version
+Open the folder containing the project, then in the terminal, run the command "rails s"
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+=)
